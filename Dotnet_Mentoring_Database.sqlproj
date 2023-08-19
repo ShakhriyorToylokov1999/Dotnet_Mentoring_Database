@@ -62,6 +62,8 @@
     <Build Include="Address.sql" />
     <Build Include="Employee.sql" />
     <Build Include="Company.sql" />
+    <Build Include="EmployeeInfo.sql" />
+    <Build Include="CREATE PROCEDURE InsertEmployeeInfo.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Dotnet_Mentoring_Database.refactorlog" />
