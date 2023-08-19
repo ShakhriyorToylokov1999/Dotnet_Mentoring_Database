@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Dotnet_Mentoring_Database", "Dotnet_Mentoring_Database.sqlproj", "{06153A82-FDA9-4199-A375-82F7B4F9C6F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06153A82-FDA9-4199-A375-82F7B4F9C6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06153A82-FDA9-4199-A375-82F7B4F9C6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06153A82-FDA9-4199-A375-82F7B4F9C6F2}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{06153A82-FDA9-4199-A375-82F7B4F9C6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06153A82-FDA9-4199-A375-82F7B4F9C6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06153A82-FDA9-4199-A375-82F7B4F9C6F2}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F5F4C9-198E-47EF-A0A0-530677AC74C0}
+	EndGlobalSection
+EndGlobal
